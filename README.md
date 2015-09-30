@@ -12,6 +12,6 @@ Its most effective when executed on a 1/4 rack DCA.  This is designed to be easi
 6. The accompanying .ppt is used to introduce each section.  The .ppt includes animated slides for those new to MPP
 7. USE THE gpdemo-dwbi.sql SCRIPT TO EXECUTE THE STEPS IN THE DEMO.
 
-Originally the work of Brad Ganas
+Originally the work of Brad Ganas, updated in August of 2015 by Kyle Dunn to leverage browser-based IPython Notebook/Jupyter environment.
 
 BIG Thanks to those who inspired this:  Matt Neglay, Austin Rutherford, and others!!
